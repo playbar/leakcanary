@@ -34,3 +34,4 @@ out
 
 # Finder
 .DS_Store
+*.gitignore
